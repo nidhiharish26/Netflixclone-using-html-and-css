@@ -10,5 +10,5 @@ This repo has the following files-
 * Lastly, the stylemedia.css file is for the reduced viewport width of the website homepage.
 * Few image files which was required to design the homepage.
 
-This clone is not responsive as it is designed using only HTML and CSS.
+This webpage is not responsive as it is designed using only HTML and CSS.
 Any suggestions, improvements or PRs would be appreciated!
